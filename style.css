@@ -179,7 +179,7 @@ ul li span :hover{
     
     ul li button{
         position: absolute;
-       right: 0;
+       right: 15px;
        border: none;
         outline: none;
         padding: 7px 18px;
